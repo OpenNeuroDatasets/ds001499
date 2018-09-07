@@ -1,11 +1,1 @@
-{
-  "Name": "5000Scenes",
-  "BIDSVersion": "1.0.2",
-  "License": "~",
-  "Authors": ["author1", "author2"],
-  "Acknowledgements": "~",
-  "HowToAcknowledge": "~",
-  "Funding": "~",
-  "ReferencesAndLinks": ["ref1", "ref2"],
-  "DatasetDOI": "doi.val.1234~"
-}
+{"Name":"5000Scenes","License":"~","Authors":["Nadine Chang","author2"],"Acknowledgements":"~","HowToAcknowledge":"~","Funding":"~","ReferencesAndLinks":["ref1","ref2"],"DatasetDOI":"doi.val.1234~","BIDSVersion":"1.0.2"}
