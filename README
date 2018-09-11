@@ -2,8 +2,6 @@ BOLD5000: Brains, Objects, Landscapes Dataset
 
 For details please refer to BOLD5000.org and our paper on arXiv (http://arxiv.org/abs/1809.01281)
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Participant Directories Content
 
 Four participants: CSI1, CSI2, CSI3, & CSI4
@@ -22,8 +20,6 @@ Notes:
 -All MRI and fMRI data provided is with Siemens pre-scan normalization filter.  
 -CSI4 only participated in 10 MRI sessions: 1-9 were functional acquisition sessions, and 10 was the anatomical data acquisition session.
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Derivatives Directory Content
 
 1) fMRIprep: 
