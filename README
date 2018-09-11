@@ -3,14 +3,14 @@ BOLD5000: Brains, Objects, Landscapes Dataset
 For details please refer to BOLD5000.org and our paper on arXiv (http://arxiv.org/abs/1809.01281)
 
 *Participant Directories Content*
-Four participants: CSI1, CSI2, CSI3, & CSI4
-Functional task data acquisition sessions: sessions #1-15
+1) Four participants: CSI1, CSI2, CSI3, & CSI4
+2) Functional task data acquisition sessions: sessions #1-15
 Each functional session includes:
 -3 sets of fieldmaps (EPI opposite phase encoding; spin-echo opposite phase encoding pairs with partial & non-partial Fourier)
 -9 or 10 functional scans of slow event-related 5000 scene data (5000scenes)
 -1 or 0 functional localizer scans used to define scene selective regions (localizer)
 -each event.json file lists each stimulus, the onset time, and the participant’s response (participants performed a simple valence task) 
-Anatomical data acquisition session: #16
+3) Anatomical data acquisition session: #16
 Anatomical Data: T1 weighted MPRAGE scan, a T2 weighted SPACE, diffusion spectrum imaging   
 
 Notes:
