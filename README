@@ -29,14 +29,11 @@ Derivatives Directory Content
 1) fMRIprep: 
 -Preprocessed data for all functional data of CSI1 through CSI4 (listed in folders for each participant: derivatives/fmriprep/sub-CSIX). Data was preprocessed both in T1w image space and on surface space. Functional data was motion corrected, susceptibility distortion corrected, and aligned to the anatomical data using bbregister. Please refer to the paper for the details on preprocessing.
 -Reports resulting from fMRI prep, which include the success of anatomical alignment and distortion correction, among other measures of preprocessing success are all listed in the sub-CSIX.html files.  
-
 2) Freesurfer: Freesurfer reconstructions as a result of fMRIprep preprocessing stream. 
-
 3) MRIQC: Image quality metrics (IQMs) of the dataset using MRIQC. 
 -CSIX-func.csv files are text files with a list of all IQMs for each session, for each run.
 -CSIX-anat.csv files are text files with a list of all IQMs for the scans acquired in the anatomical session (e.g., MPRAGE). 
 -CSIX_IQM.xls an excel workbook, each sheet of workbook lists the IQMs for a single run. This is the same data as CSIX-func.csv, except formatted differently. 
 -sub-CSIX/derivatives: contain .json with the MRIQC/IQM results for each run. 
 -sub-CSIX/reports: contains .html file with MRIQC/IQM results for each run along with mean signal and standard deviation maps. 
-
 4)spm: A directory that contains the masks used to define each region of interest (ROI) in each participant. There were 10 ROIs: early visual (EarlyVis), lateral occipital cortex (LOC), occipital place area (OPA), parahippocampal place area (PPA), retrosplenial complex (RSC) for the left hemisphere (LH) and right hemisphere (RH). 
