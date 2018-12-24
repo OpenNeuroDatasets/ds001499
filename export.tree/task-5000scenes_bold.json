@@ -1,0 +1,6 @@
+{
+	"TaskName": "5000scenes",
+	"RepetitionTime": 2,
+	"PulseSequenceType": "Multiband gradient echo EPI",
+	"PartialFourier": "6/8"
+}
