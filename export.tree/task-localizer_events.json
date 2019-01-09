@@ -1,0 +1,58 @@
+{
+	"TR": {
+		"LongName": "Current TR",
+		"Description": "Current TR"
+	},
+	"Trial": {
+		"LongName": "Trial Number",
+		"Description": "Trial Number"
+	},
+	"StimOn": {
+		"LongName": "Stimulus Onset Time",
+		"Description": "Stimulus Onset Time"
+	},
+	"StimOff": {
+		"LongName": "Stimulus Offset Time",
+		"Description": "Stimulus Offset Time"
+	},
+	"cond": {
+		"LongName": "Condition",
+		"Description": "Condition",
+		"Levels": {
+			"fix": "Fixation",
+			"Scene": "Scene",
+			"Scrambled": "Scrambled",
+			"WkObject": "Weak Object"
+		}
+	},
+	"image": {
+		"LongName": "Image Name",
+		"Description": "Image Name"
+	},
+	"1back": {
+		"LongName": "One-back",
+		"Description": "One-back task flag",
+		"Levels": {
+			"1": "No",
+			"2": "Yes"
+		}
+	},
+	"Response": {
+		"LongName": "Subject Response",
+		"Description": "Subject Response"
+	},
+	"RT": {
+		"LongName": "Reaction Time",
+		"Description": "Reaction Time"
+	},
+	"Accuracy": {
+		"LongName": "Accuracy",
+		"Description": "Accuracy",
+		"Levels": {
+			"correct rejection": "not one-back, no response",
+			"false alarm": "not one-back, response found",
+			"hit": "one-back, response",
+			"miss": "one-back, no response"
+		}
+	}
+}
