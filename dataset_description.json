@@ -4,7 +4,6 @@
     "Authors": [
         "Nadine Chang",
         "John A. Pyles",
-        "Elissa M. Aminoff",
         "Austin Marcus"
     ],
     "Acknowledgements": "We thank Scott Kurdilla for his patience as our MRI technologist throughout all data collection. We would also like to thank Austin Marcus for his assistance in various stages of this project, Jayanth Koushik for his assistance in AlexNet feature extractions, and Ana Van Gulick for her assistance with public data distribution and open science issues. Finally, we thank our participants for their participation and patience, without them this dataset would not have been possible.",
