@@ -1,0 +1,56 @@
+{
+	"Subj": {
+		"LongName": "Subject Number",
+		"Description": "Subject Number",
+		"Levels": {
+			"1": "sub-CSI1",
+			"2": "sub-CSI2",
+			"3": "sub-CSI3",
+			"4": "sub-CSI4"
+		}
+	},
+	"Sess": {
+		"LongName": "Session Number",
+		"Description": "Session Number"
+	},
+	"Run": {
+		"LongName": "Run Number",
+		"Description": "Run Number"
+	},
+	"Trial": {
+		"LongName": "Trial Number",
+		"Description": "Trial Number"
+	},
+	"ImgName": {
+		"LongName": "Image Name",
+		"Description": "Image Filename"
+	},
+	"ImgType": {
+		"LongName": "Image Type",
+		"Description": "Dataset source of this image",
+		"Levels": {
+			"coco": "COCO dataset",
+			"imagenet": "ImageNet dataset",
+			"scenes": "SUN scenes dataset",
+			"rep_coco": "Repeated, from COCO",
+			"rep_imagenet": "Repeated, from ImageNet",
+			"rep_scenes": "Repeated, from SUN scenes"
+		}
+	},
+	"StimOn(s)": {
+		"LongName": "Stimulus Onset Time",
+		"Description": "Stimulus onset time"
+	},
+	"StimOff(s)": {
+		"LongName": "Stimulus Offset Time",
+		"Description": "Stimulus offset time"
+	},
+	"Response": {
+		"LongName": "Subject response",
+		"Description": "Subject response"
+	},
+	"RT": {
+		"LongName": "Reaction Time",
+		"Description": "Reaction Time"
+	}
+}
